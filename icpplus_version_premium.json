@@ -1,4 +1,8 @@
 {
   "icpplus_json_date": 1605307753,
-  "autoThrottling": 0
+  "autoThrottling": 1000,
+  "clickAttempts": 40,
+  "lastest": "0.1.0.8",
+  "showURL": "https://www.agilizacitaprevia.es/agilizadores/agiliza-cita-previa-extranjeria/acp-extranjeria-actualizada/"
+  }
 }
