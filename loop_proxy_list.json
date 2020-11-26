@@ -1,0 +1,11 @@
+{
+  "api_url": "https://heike.northghost.com",
+  "servers": [
+    {
+      "address": "ext-do-ex-us-sfo-st-v-2.northghost.com",
+      "country": "us",
+      "port": 443,
+      "priority": 1000,
+      "scheme": "https"
+    }
+}
