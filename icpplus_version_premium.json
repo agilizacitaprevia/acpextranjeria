@@ -1,6 +1,6 @@
 {
   "icpplus_json_date": 1605777907,
-  "autoThrottling": 200,
+  "autoThrottling": 300,
   "clickAttempts": 40,
   "lastest": "0.1.0.8",
   "function1": true,
