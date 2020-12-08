@@ -3,5 +3,7 @@
   "autoThrottling": 1000,
   "clickAttempts": 60,
   "lastest": "0.2.0.0",
-  "showURL": "https://www.agilizacitaprevia.es/agilizadores/agiliza-cita-previa-extranjeria/acp-extranjeria-actualizada/"
+  "showURL": "https://www.agilizacitaprevia.es/agilizadores/agiliza-cita-previa-extranjeria/acp-extranjeria-actualizada/",
+  "functionFree1": true,
+  "functionFree2": true
 }
