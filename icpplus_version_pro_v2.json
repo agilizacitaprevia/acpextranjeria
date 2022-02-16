@@ -1,6 +1,7 @@
 {
-  "icpplus_json_date": 1640606786,
+  "icpplus_json_date": 1640606886,
   "autoThrottling": 200,
+  "autoThrottlingRepeat": 400,
   "proxyLoopServerListURL":"U2FsdGVkX1/2yCdYIXZsoCm6b1AsH8BwMtj+Ei/0cXOhJMUTwpOLJin7B9ekB6ypZlcFXbTeQgEHBT6rcdurFJ/WLhkuph4W2aZsaCr4FiU=",
   "startFrom": "index",
   "crancMode": "false",
