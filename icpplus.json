@@ -31858,6 +31858,49 @@
             "required": "true",
             "value": "País de nacionalidad"
           }]
+        }, 
+        {
+          "processForm": "1",
+          "processMessageMainContent": "CiAgICAgICAgICAgICAgICA8cD48L3A+PHA+RE9DVU1FTlRBQ0nDk04gQSBQUkVTRU5UQVI8L3A+PHA+PC9wPgogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgPHA+PC9wPjx1bD4KPGxpPkRvcyBmb3RvZ3JhZsOtYXMgdGFtYcOxbyBjYXJuZXQuPC9saT4KPGxpPlBhc2Fwb3J0ZSBvcmlnaW5hbCB5IGZvdG9jb3BpYSBkb25kZSBleGlzdGFuIGRhdG9zIHkgc2VsbG9zLCBlbiBjYXNvIGRlIHBvc2VlcmxvLjwvbGk+CjwvdWw+PHA+PC9wPgogICAgICAgICAgICAgICAgCgkJCQkKICAgICAgICAgICAgICAgIAoJCQkJCQkJCgkJ",
+          "processText": "POLICIA- SOLICITUD ASILO",
+          "processValue": "4078",
+          "processZFormInputArray": [{
+              "id": "txtIdCitado",
+              "required": "true",
+              "value": "N.I.E."
+            },
+            {
+              "id": "txtDesCitado",
+              "required": "true",
+              "value": "Nombre y apellidos"
+            },
+            {
+              "id": "txtAnnoCitado",
+              "required": "true",
+              "value": "Año de nacimiento"
+            }
+          ],
+          "processZFormRadioArray": [{
+              "id": "rdbTipoDocNie",
+              "label": "N.I.E.",
+              "radioName": "rdbTipoDoc",
+              "value": "N.I.E."
+            },
+            {
+              "id": "rdbTipoDocPas",
+              "label": "PASAPORTE",
+              "radioName": "rdbTipoDoc",
+              "value": "PASAPORTE"
+            }
+          ],
+          "processZFormSelectArray": [{
+            "id": "txtPaisNac",
+            "options": [{
+              "optionValue": "Default"
+            }],
+            "required": "true",
+            "value": "País de nacionalidad"
+          }]
         },
         {
           "processForm": "1",
