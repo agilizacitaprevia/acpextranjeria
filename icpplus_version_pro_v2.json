@@ -7,5 +7,6 @@
   "startFrom": "index",
   "crancMode": "false",
   "semiCrancMode": "false",
-  "onlyCaptcha": "true"
+  "onlyCaptcha": "true",
+  "stepStop": 40
 }
