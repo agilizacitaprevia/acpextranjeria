@@ -8,5 +8,5 @@
   "crancMode": "false",
   "semiCrancMode": "false",
   "onlyCaptcha": "true",
-  "stepStop": 220
+  "stepStop": 100
 }
