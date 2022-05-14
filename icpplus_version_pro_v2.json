@@ -8,5 +8,6 @@
   "crancMode": "false",
   "semiCrancMode": "false",
   "onlyCaptcha": "true",
-  "stepStop": 100
+  "stepStop": 80,
+  "emailAfter": "false"
 }
