@@ -1,5 +1,5 @@
 {
-  "icpplus_json_date": 1640669796,
+  "icpplus_json_date": 1640669896,
   "autoThrottling": 0,
   "autoThrottlingRepeat": 300,
   "autoThrottlingRepeat2": 300,
@@ -8,6 +8,6 @@
   "crancMode": "false",
   "semiCrancMode": "false",
   "onlyCaptcha": "true",
-  "stepStop": 80,
+  "stepStop": 180,
   "emailAfter": "false"
 }
