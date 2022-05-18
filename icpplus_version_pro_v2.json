@@ -1,5 +1,5 @@
 {
-  "icpplus_json_date": 1640670000,
+  "icpplus_json_date": 1640670030,
   "autoThrottling": 0,
   "autoThrottlingRepeat": 300,
   "autoThrottlingRepeat2": 300,
@@ -9,5 +9,8 @@
   "semiCrancMode": "false",
   "onlyCaptcha": "true",
   "stepStop": 180,
-  "emailAfter": "false"
+  "emailAfter": "false",
+  "smsWaittime": 60,
+  "verifyMechanism": 2,
+  "smsSyncTime": 5
 }
