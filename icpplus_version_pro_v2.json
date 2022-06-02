@@ -7,7 +7,7 @@
   "startFrom": "index",
   "crancMode": "false",
   "semiCrancMode": "false",
-  "onlyCaptcha": "false",
+  "onlyCaptcha": "true",
   "stepStop": 180,
   "emailAfter": "false",
   "smsWaittime": 60,
