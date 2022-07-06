@@ -12,5 +12,7 @@
   "emailAfter": "false",
   "smsWaittime": 60,
   "verifyMechanism": 2,
-  "smsSyncTime": 5
+  "smsSyncTime": 5,
+  "anuladesFrom": "15:00",
+  "anuladesTo": "21:00"
 }
