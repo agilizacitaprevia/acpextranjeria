@@ -15,7 +15,9 @@
   "smsSyncTime": 5,
   "anuladesFrom": "14:00",
   "anuladesTo": "21:00",
+  "anuladesWeekendFrom": "08:00",
+  "anuladesWeekendTo": "21:00",
   "beforeAnulades": 90,
-  "afterAnulades": 120,
+  "afterAnulades": 480,
   "afterAnuladesIfCita": 480
 }
