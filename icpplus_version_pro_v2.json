@@ -17,7 +17,7 @@
   "anuladesTo": "21:00",
   "anuladesWeekendFrom": "08:00",
   "anuladesWeekendTo": "21:00",
-  "beforeAnulades": 90,
+  "beforeAnulades": 200,
   "afterAnulades": 480,
   "afterAnuladesIfCita": 480
 }
