@@ -7,17 +7,17 @@
   "startFrom": "index",
   "crancMode": "false",
   "semiCrancMode": "false",
-  "onlyCaptcha": "true",
+  "onlyCaptcha": "false",
   "stepStop": 180,
   "emailAfter": "false",
   "smsWaittime": 60,
   "verifyMechanism": 2,
   "smsSyncTime": 5,
-  "anuladesFrom": "14:00",
+  "anuladesFrom": "12:00",
   "anuladesTo": "21:00",
   "anuladesWeekendFrom": "08:00",
   "anuladesWeekendTo": "21:00",
   "beforeAnulades": 200,
-  "afterAnulades": 440,
-  "afterAnuladesIfCita": 440
+  "afterAnulades": 120,
+  "afterAnuladesIfCita": 120
 }
