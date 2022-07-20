@@ -14,7 +14,7 @@
   "verifyMechanism": 2,
   "smsSyncTime": 5,
   "anuladesFrom": "13:00",
-  "anuladesTo": "21:00",
+  "anuladesTo": "16:00",
   "anuladesWeekendFrom": "08:00",
   "anuladesWeekendTo": "21:00",
   "beforeAnulades": 240,
