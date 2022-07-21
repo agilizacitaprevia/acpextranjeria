@@ -13,11 +13,12 @@
   "smsWaittime": 60,
   "verifyMechanism": 2,
   "smsSyncTime": 5,
-  "anuladesFrom": "13:00",
-  "anuladesTo": "16:00",
+  "anuladesFrom": "12:00",
+  "anuladesTo": "20:00",
   "anuladesWeekendFrom": "08:00",
   "anuladesWeekendTo": "21:00",
   "beforeAnulades": 240,
   "afterAnulades": 180,
-  "afterAnuladesIfCita": 440
+  "afterAnuladesIfCita": 440,
+  "anuladesCitaDirectaMadrid": "true"
 }
