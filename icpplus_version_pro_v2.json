@@ -13,7 +13,7 @@
   "smsWaittime": 60,
   "verifyMechanism": 2,
   "smsSyncTime": 5,
-  "anuladesFrom": "13:00",
+  "anuladesFrom": "11:00",
   "anuladesTo": "20:00",
   "anuladesWeekendFrom": "08:00",
   "anuladesWeekendTo": "21:00",
