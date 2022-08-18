@@ -11,7 +11,7 @@
   "stepStop": 180,
   "emailAfter": "false",
   "smsWaittime": 60,
-  "verifyMechanism": 1,
+  "verifyMechanism": 2,
   "smsSyncTime": 5,
   "anuladesFrom": "11:00",
   "anuladesTo": "20:00",
