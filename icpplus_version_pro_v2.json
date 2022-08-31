@@ -18,7 +18,7 @@
   "anuladesWeekendFrom": "08:00",
   "anuladesWeekendTo": "21:00",
   "beforeAnulades": 240,
-  "afterAnulades": 440,
+  "afterAnulades": 1000,
   "afterAnuladesIfCita": 440,
   "anuladesCitaDirectaMadrid": "true"
 }
